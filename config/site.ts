@@ -199,7 +199,7 @@ export const siteConfig = {
     },
       "indo": {
       "name": "Indonesia",
-      "icon": "india.svg",
+      "icon": "Indonesia.svg",
       "locale": "kms",
       "cities": [
         "Lampung, Indonesia",
